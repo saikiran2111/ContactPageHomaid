@@ -9,7 +9,7 @@
   justify-content: space-around;
   align-items: center;
   padding: 20px;
-  background: url(./Images/profilebg.png);
+  background: url(./profilebg.png);
   height: 100vh;
   max-width: 100vw;
 }
